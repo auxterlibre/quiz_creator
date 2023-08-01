@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://bo37u44622usq"]
+
+[node name="Question" type="Button"]
+custom_minimum_size = Vector2(0, 80)
+text = "Pergunta 1"
